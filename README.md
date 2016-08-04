@@ -82,7 +82,7 @@ Options:
   --config=CONFIG : Config file to extend or replace default
   --disable=DISABLE : Disable plugin by name
   --enable=ENABLE : Enable plugin by name
-  --datauri=DATAURI : Output as Data URI string (base64, URI encoded or unencoded)
+  --datauri=DATAURI : Output as Data URI string (base64, enc, unenc)
   -q, --quiet : Only output error messages, not regular status messages
   --pretty : Make SVG pretty printed
   --show-plugins : Show available plugins and exit
